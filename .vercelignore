@@ -1,0 +1,11 @@
+requirements_web.txt
+requirements_groq.txt
+requirements_fixed.txt
+requirements_simple.txt
+app.py
+rag_*.py
+simple_rag.py
+documents/
+prod_rag/
+*.db
+__pycache__/

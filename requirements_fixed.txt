@@ -1,9 +1,0 @@
-langchain==0.3.13
-langchain-community==0.3.13
-langchain-text-splitters==0.3.4
-langchain-core==0.3.28
-langchain-huggingface==0.1.2
-sentence-transformers==3.3.1
-faiss-cpu==1.9.0
-huggingface-hub==0.27.1
-numpy<2.0.0
