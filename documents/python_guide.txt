@@ -1,0 +1,31 @@
+Python Programming Guide
+
+Python is a high-level, interpreted programming language known for its simplicity and readability.
+
+Key Features:
+- Dynamic typing: Variables don't need explicit type declarations
+- Indentation-based syntax: Code blocks are defined by indentation
+- Object-oriented: Supports classes and inheritance
+- Extensive standard library: Batteries included philosophy
+
+Common Data Types:
+1. Integers (int): Whole numbers like 42, -10
+2. Floats (float): Decimal numbers like 3.14, -0.5
+3. Strings (str): Text enclosed in quotes "hello"
+4. Lists (list): Ordered collections [1, 2, 3]
+5. Dictionaries (dict): Key-value pairs {"name": "John", "age": 30}
+
+Control Flow:
+- if/elif/else: Conditional statements
+- for loops: Iterate over sequences
+- while loops: Repeat while condition is true
+
+Functions:
+Define reusable code blocks with def keyword.
+Example: def greet(name): return f"Hello {name}"
+
+Popular Libraries:
+- NumPy: Numerical computing
+- Pandas: Data analysis
+- Django/Flask: Web frameworks
+- TensorFlow/PyTorch: Machine learning

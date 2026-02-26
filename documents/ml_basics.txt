@@ -1,0 +1,42 @@
+Machine Learning Basics
+
+Machine Learning is a subset of artificial intelligence that enables systems to learn from data.
+
+Types of Machine Learning:
+
+1. Supervised Learning
+   - Uses labeled training data
+   - Examples: Classification, Regression
+   - Algorithms: Linear Regression, Decision Trees, Neural Networks
+
+2. Unsupervised Learning
+   - Works with unlabeled data
+   - Examples: Clustering, Dimensionality Reduction
+   - Algorithms: K-Means, PCA, Autoencoders
+
+3. Reinforcement Learning
+   - Learns through trial and error
+   - Agent interacts with environment
+   - Examples: Game playing, Robotics
+
+Common Algorithms:
+
+Linear Regression: Predicts continuous values
+Logistic Regression: Binary classification
+Decision Trees: Tree-based decisions
+Random Forest: Ensemble of decision trees
+Neural Networks: Inspired by human brain
+Support Vector Machines: Finds optimal hyperplane
+
+Key Concepts:
+- Training: Learning from data
+- Testing: Evaluating model performance
+- Overfitting: Model too complex, memorizes training data
+- Underfitting: Model too simple, poor performance
+- Cross-validation: Technique to assess model generalization
+
+Evaluation Metrics:
+- Accuracy: Percentage of correct predictions
+- Precision: True positives / (True positives + False positives)
+- Recall: True positives / (True positives + False negatives)
+- F1 Score: Harmonic mean of precision and recall

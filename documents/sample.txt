@@ -1,0 +1,6 @@
+This is a sample document for the RAG chatbot.
+
+The chatbot uses Retrieval-Augmented Generation to answer questions based on your documents.
+It combines the power of large language models with your specific knowledge base.
+
+You can add multiple text files to this directory, and the chatbot will use them to answer questions.

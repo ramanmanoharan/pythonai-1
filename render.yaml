@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: vellore-ai
+    env: python
+    buildCommand: pip install -r requirements_lite.txt
+    startCommand: uvicorn app_lite:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.0
